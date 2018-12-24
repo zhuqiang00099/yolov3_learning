@@ -1,4 +1,4 @@
-# yolov3_learning
+#iyolov3_learning
   用来自己学习yolo，有缘的新手看到也能一起学学！
 
 # 目标
@@ -15,5 +15,6 @@
   4. 上传了数据集brainwash格式转yolo格式的matlab脚本文件 idl2yolo
 - 2018.12.24
   1. 上传SCUT_HEAD人头数据集[SCUT_HEAD数据集](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release)
-  2. 上传配套格式转换脚本（修改自yolo的voc脚本，只是改了改参数）
+  2. 上传配套格式转换脚本（修改自yolo的voc脚本）
+  3. 原数据集xml文件有问题，有些size是0,0，用上面的脚本可以修复,文件路径自己vim看下改改
 
